@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
 public class SpringmvcApplication {
-
+    //spring-core-advanced-final-with-spring-boot.
     public static void main(String[] args) {
         ApplicationContext ctx = SpringApplication.run(SpringmvcApplication.class, args);
 
